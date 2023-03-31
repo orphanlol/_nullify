@@ -3,7 +3,7 @@
 <p align="center">By <a href="https://github.com/flowingsalt">flowings</a>, <a href="https://github.com/cupiditys">cupiditys</a>, <a href="https://github.com/sysplu">sysplu</a>, and <a href="https://github.com/TonicGaro">TonicGaro</a>
 
 <p align="center">
-        <a href="https://discord.gg/tempnullify">
+        <a href="https://discord.gg/nullify">
 	       <img src="https://img.shields.io/discord/1075550021291872307?label=discord&logo=discord">
         </a>
 </p>
