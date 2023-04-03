@@ -16,8 +16,8 @@ Welcome to Nullify, the best i-Ready hack!<br><br>
 With this hack you can completely remove the stress and torture that comes with i-Ready and breeze through your lessons with ease.</p>
 
 <h2 align="center">How to setup:</h2>
-Watch <a href="https://www.dropbox.com/s/3skzx4wq9hlrrb1/NewTutorial.mp4?dl=0">this</a> video on how to setup overrides.<br><br>
-<p align="center">Then go <a href="https://github.com/NullifyPlaceholder/Nullify/blob/main/src/main.js">here</a> and copy all the code.<br><br>
+<p align="center">Watch <a href="https://www.dropbox.com/s/3skzx4wq9hlrrb1/NewTutorial.mp4?dl=0">this</a> video on how to setup overrides.<br><br>
+Then go <a href="https://github.com/NullifyPlaceholder/Nullify/blob/main/src/main.js">here</a> and copy all the code.<br><br>
 Then login to i-Ready and open the console (Ctrl + Shift + J). Paste all the code in there and run it.
 
 <h2 align="center">FAQ</h2>
