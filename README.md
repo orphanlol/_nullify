@@ -15,7 +15,7 @@ Sincerely, The Nullify Team.
 <p align="center">
 If you still want to support us in what we do in the future for different exploits, join our discord down below by clicking the little button.
 <p align="center">
-        <a href="https://discord.gg/mGSeEaVmTq">
+        <a href="https://discord.gg/M6ZzUJ99sG">
 	       <img src="https://img.shields.io/discord/1073259512254955640?label=discord&logo=discord">
         </a>
 
