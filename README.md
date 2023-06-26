@@ -14,7 +14,7 @@ Then login to i-Ready and open the console (Ctrl + Shift + J). Paste all the cod
 
 <h2 align="center">FAQ</h2>
 <details>
-  	<summary><b>How do I send feedback about Nullify?</b></summary>
+  	<summary><b>How do I send feedback about Godliike?</b></summary>
 
   You can make an issue on the Github repository or leave a comment on our Discord server (listed at the top of this page). But please, be sure to check the rest of the FAQ before bringing up an issue.
   </details>
@@ -48,4 +48,4 @@ We could but really our main focus is i-Ready exploits. There is plenty of explo
 <p align="center">
 Credits to cupiditys, and wang for originally making this, (but some deleted their repo).<br><br>
 HUGE credit to wang-fr for creating the Lesson Skipper. This hack wouldn't be as great as it is without their help.<br><br>
-Nullify is under the GNU General Public License v3.0. Learn more <a href="https://github.com/notplu/Nullify/blob/main/LICENSE">here</a>.</p>
+Godlike is under the GNU General Public License v3.0. Learn more <a href="https://github.com/notplu/Nullify/blob/main/LICENSE">here</a>.</p>
