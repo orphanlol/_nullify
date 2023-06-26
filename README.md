@@ -14,7 +14,7 @@ Then login to i-Ready and open the console (Ctrl + Shift + J). Paste all the cod
 
 <h2 align="center">FAQ</h2>
 <details>
-  	<summary><b>How do I send feedback about Godliike?</b></summary>
+  	<summary><b>How do I send feedback about Godlike?</b></summary>
 
   You can make an issue on the Github repository or leave a comment on our Discord server (listed at the top of this page). But please, be sure to check the rest of the FAQ before bringing up an issue.
   </details>
