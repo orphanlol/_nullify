@@ -8,7 +8,7 @@ Welcome to Godlike, the best i-Ready hack!<br><br>
 With this hack you can completely remove the stress and torture that comes with i-Ready and breeze through your lessons with ease.</p>
 
 <h2 align="center">How to setup:</h2>
-<p align="center">Join the <a href="https://discord.gg/jHMWAJYSfb">discord.</a><br><br>
+<h1 align="center">Join the <a href="https://discord.gg/jHMWAJYSfb">discord</a><br><br>
 
 <h2 align="center">FAQ</h2>
 <details>
