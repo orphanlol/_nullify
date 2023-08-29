@@ -6,7 +6,6 @@
 
 <p align="center">
 Your "obfuscator" is nothing to us.
-
 We reverse engineer web applications, using the websites own core functions against it. </p>
 
 <h2 align="center">How to setup:</h2>
