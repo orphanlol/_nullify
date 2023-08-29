@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-Welcome to Infara, the best i-Ready hack!<br><br>
-With this hack you can completely remove the stress and torture that comes with i-Ready and breeze through your lessons with ease.</p>
+Your "obfuscator" is nothing to us.
+
+We reverse engineer web applications, using the websites own core functions against it. </p>
 
 <h2 align="center">How to setup:</h2>
 <h4 align="center">Join the <a href="https://discord.gg/plu">discord</a> for future updates on the hack.<br><br>
