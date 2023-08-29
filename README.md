@@ -1,6 +1,7 @@
 </p>
 <p align="center">
-<img width="212" height="212" src="https://res.cloudinary.com/dlo5n5au8/image/upload/v1687908933/removal.ai__tmp-649b722aa1cef_el8iuw.png">
+<a href="https://infara-security.github.io/website/">
+    <img alt="Infara Security" src="https://github.com/Infara-Security/.github/blob/main/profile/infara-small.png">
 </p>
 
 <p align="center">
