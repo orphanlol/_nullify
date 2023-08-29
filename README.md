@@ -22,27 +22,16 @@ We reverse engineer web applications, using the websites own core functions agai
   </details>
 
   <details>
-  	<summary><b>The script isn't working, what do I do?</b></summary>
+  	<summary><b>Is there something like this for other related programs?</b></summary>
 
-  It may be that you have an old version (which is very common), or that you simply followed the wrong steps (i.e not putting a colon after javascript in the bookmarklet or just copied the code wrong. Make sure to check your code!). Always check either of these two options before complaining. Worst case scenario, it might be that the script has been patched, but it's not likely to happen for a while. If so, we will try to fix it as fast as possible so please be patient if ever happens.
-  </details>
+  You can join the discord and ask for something to be made. 
 
-  <details>
-  	<summary><b>Is there something like this for other school related programs?</b></summary>
-
-  You can join the discord and ask for something to be made but your best bet would most likely be to use some of the following:
-  <ul>
-  	<li>https://discord.gg/qu9KB4BCZz (Savvas Realize)</li>
-  	<li>https://discord.gg/4STDwzYUXb (Deltamath)</li>
-  	<li>https://discord.gg/4STDwzYUXb (Ed-Learning)</li>
-  	<li>https://photomath.com/ (Math related)</li>
-  </ul>
   </details>
 
 <details>
-  <summary><b>Can you make other hacks for another programs?</b></summary>
+  <summary><b>Can you make other exploits for another programs?</b></summary>
 
-We could but really our main focus is i-Ready exploits. There is plenty of exploits on GitHub, just check before asking. You can ask & we will keep it as an suggestion.
+ There is plenty of exploits on GitHub, just check before asking. You can ask & we will keep it as an suggestion.
 </details>
 
 <h2 align="center">Misc</h2>
