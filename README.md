@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Welcome to Godlike, the best i-Ready hack!<br><br>
+Welcome to Infara, the best i-Ready hack!<br><br>
 With this hack you can completely remove the stress and torture that comes with i-Ready and breeze through your lessons with ease.</p>
 
 <h2 align="center">How to setup:</h2>
@@ -12,7 +12,7 @@ With this hack you can completely remove the stress and torture that comes with 
 
 <h2 align="center">FAQ</h2>
 <details>
-  	<summary><b>How do I send feedback about Godlike?</b></summary>
+  	<summary><b>How do I send feedback about Infara?</b></summary>
 
   You can make an issue on the Github repository or leave a comment on our Discord server (listed at the top of this page). But please, be sure to check the rest of the FAQ before bringing up an issue.
   </details>
