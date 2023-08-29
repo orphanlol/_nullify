@@ -5,9 +5,11 @@
 </p>
 
 <p align="center">
-Your "obfuscator" is nothing to us. </p>
-    <p align="center">
-We reverse engineer web applications, using the websites own core functions against it. </p>
+  <em>Your "obfuscator" is nothing to us.</em>
+</p>
+
+<p align="center">
+We reverse engineer web applications, using the websites own core functions against it.
 
 <h2 align="center">How to setup:</h2>
 <h4 align="center">Join the <a href="https://discord.gg/plu">discord</a> for future updates on the hack.<br><br>
