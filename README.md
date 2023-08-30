@@ -12,7 +12,7 @@
 We reverse engineer web applications, using the websites own core functions against it.
 
 <h2 align="center">How to setup:</h2>
-<h4 align="center">Join the <a href="https://discord.gg/3YuejuJXaU">discord</a> for future updates on the hack.<br><br>
+<h4 align="center">Join the <a href="https://discord.gg/3YuejuJXaU">discord</a> for future updates.<br><br>
 
 <h2 align="center">FAQ</h2>
 <details>
