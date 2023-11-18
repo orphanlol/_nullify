@@ -1,5 +1,5 @@
 <p align="center">
-the iReady hack, "Nullify" is permanently discontinued. To hear why, read the message down below;
+Nullify is permanently discontinued. To hear why, read the message down below;
 <p align="center">
 To whom it may concern,
 <p align="center">
