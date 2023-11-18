@@ -11,9 +11,9 @@ Therefore, we officially disclaim the use of the Nullify exploit and advise agai
 <p align="center">
 Thank you for your attention to this matter.
 <p align="center">
-Sincerely, The Nullify Team.
+Sincerely, Plu
 <p align="center">
 If you still want to support us in what we do in the future for different exploits, join our discord down below by clicking the little button.
 <p align="center">
-        <a href="https://discord.gg/DGT6NdfyEQ">
-	       <img src="https://img.shields.io/discord/1075806291336908900?label=discord&logo=discord">
+        <a href="https://discord.gg/ixl">
+	       <img src="https://img.shields.io/discord/1152424594981007410?label=discord&logo=discord">
