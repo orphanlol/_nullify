@@ -1,3 +1,7 @@
+</p>
+<p align="center">
+<img width="212" height="212" src="https://res.cloudinary.com/dodofguiy/image/upload/v1671071889/icon_f6pwnj.png">
+</p>
 <p align="center">
 Nullify is permanently discontinued. To hear why, read the message down below;
 <p align="center">
