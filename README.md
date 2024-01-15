@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-<img width="212" height="212" src="https://res.cloudinary.com/image/upload/v1705299433/icon_nullify.png">
+<img width="212" height="212" src="https://res.cloudinary.com/dbjqfa2al/image/upload/v1705299433/icon_nullify.png">
 </p>
 
 <p align="center">
