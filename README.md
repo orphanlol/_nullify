@@ -8,7 +8,7 @@ Welcome to Nullify, the best i-Ready hack!<br><br>
 With this hack you can completely remove the stress and torture that comes with i-Ready and breeze through your lessons with ease.</p>
 
 <h2 align="center">How to setup:</h2>
-<h4 align="center">Join the <a href="https://discord.gg/nullify">discord</a> for the download of the hack.<br><br>
+<h4 align="center">Join the <a href="https://discord.gg/nullify">discord</a> for the download link of the exploit.<br><br>
 
 <h2 align="center">FAQ</h2>
 <details>
