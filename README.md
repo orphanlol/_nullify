@@ -16,5 +16,4 @@ Therefore, we officially disclaim the use of the Nullify exploit and advise agai
 Thank you for your attention to this matter.
 <p align="center">
 Sincerely, Plu and the Nullify team
-  
-<p align="center">> P.S forever fuck devhaxx ;)
+
